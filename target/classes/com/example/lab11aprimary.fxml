@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER_LEFT" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.lab11aPrimaryController">
+   <children>
+      <Button fx:id="rockButton" mnemonicParsing="false" onAction="#updateRockResult" text="Rock">
+         <VBox.margin>
+            <Insets bottom="-1.0" left="315.0" />
+         </VBox.margin>
+      </Button>
+      <Button fx:id="paperButtton" mnemonicParsing="false" onAction="#updatePaperResult" text="Paper">
+         <VBox.margin>
+            <Insets left="368.0" top="-25.0" />
+         </VBox.margin>
+      </Button>
+      <Button fx:id="scissorsButton" mnemonicParsing="false" onAction="#updateScissorsResult" text="Scissors">
+         <VBox.margin>
+            <Insets left="425.0" top="-26.0" />
+         </VBox.margin>
+      </Button>
+      <Label fx:id="playersChoice" alignment="CENTER" prefHeight="-200.0" prefWidth="200.0"> 
+         <VBox.margin>
+            <Insets left="300.0" />
+         </VBox.margin></Label>
+      <Label fx:id="computerChoice" alignment="CENTER" prefHeight="-200.0" prefWidth="200.0"> 
+         <VBox.margin>
+            <Insets left="300.0" />
+         </VBox.margin></Label>
+      <Label fx:id="result" alignment="CENTER" prefHeight="-200.0" prefWidth="200.0">
+         <VBox.margin>
+            <Insets left="300.0" />
+         </VBox.margin></Label>
+   </children>
+</VBox>
