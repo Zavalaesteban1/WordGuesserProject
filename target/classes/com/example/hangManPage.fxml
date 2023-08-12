@@ -22,9 +22,8 @@
                   <Image url="@Images/IMG_0090-removebg-preview.png" />
                </image>
             </ImageView>
-            <Button fx:id="hintButton" layoutX="101.0" layoutY="511.0" mnemonicParsing="false" onAction="#seeHint" text="Hint" />
             <Button fx:id="menuButton" layoutX="671.0" layoutY="512.0" mnemonicParsing="false" onAction="#backToMenu" text="Menu" />
-            <ImageView fitHeight="254.0" fitWidth="392.0" layoutX="201.0" layoutY="125.0" pickOnBounds="true" preserveRatio="true">
+            <ImageView fitHeight="207.0" fitWidth="283.0" layoutX="263.0" layoutY="142.0" pickOnBounds="true" preserveRatio="true">
                <image>
                   <Image url="@Images/IMG_0104-fotor-bg-remover-20230809135420.png" />
                </image>
