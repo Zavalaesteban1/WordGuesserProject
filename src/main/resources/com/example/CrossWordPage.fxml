@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.gluonhq.charm.glisten.control.ExpansionPanel.CollapsedPanel?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Line endX="618.6666870117188" layoutX="160.0" layoutY="32.0" startX="-137.3333282470703" />
+      <Line endX="-130.83331298828125" endY="483.0" layoutX="153.0" layoutY="81.0" startX="-130.8333282470703" startY="-48.5" />
+      <Line endX="622.873779296875" layoutX="158.0" layoutY="77.0" startX="-134.3333282470703" />
+      <Line endX="222.16668701171875" endY="-156.5" layoutX="557.0" layoutY="189.0" startX="219.7071533203125" startY="374.4595947265625" />
+      <Line endX="621.6666870117188" layoutX="158.0" layoutY="124.0" startX="-137.3333282470703" />
+      <Line endX="612.1261596679688" layoutX="165.0" layoutY="169.0" startX="-142.3333282470703" />
+      <Line endX="607.1261596679688" layoutX="168.0" layoutY="217.0" startX="-145.3333282470703" />
+      <Line endX="618.6666870117188" layoutX="161.0" layoutY="262.0" startX="-142.3333282470703" />
+      <Line endX="601.1261596679688" layoutX="177.0" layoutY="315.0" startX="-153.3333282470703" />
+      <Line endX="592.873779296875" layoutX="187.0" layoutY="361.0" startX="-164.3333282470703" />
+      <Line endX="596.873779296875" layoutX="182.0" layoutY="409.0" startX="-160.33331298828125" />
+      <Line endX="632.0" endY="26.0" layoutX="144.0" layoutY="539.0" startX="-121.33333587646484" startY="25.16668701171875" />
+      <Line endX="614.1261596679688" layoutX="167.0" layoutY="460.0" startX="-145.3333282470703" />
+      <Line endX="617.0" layoutX="160.0" layoutY="517.0" startX="-136.3333282470703" />
+      <Line endX="-108.33334350585938" endY="552.4595947265625" layoutX="179.0" layoutY="11.0" startX="-108.33333587646484" startY="18.5" />
+      <Line endX="-73.0" endY="549.4595947265625" layoutX="185.0" layoutY="14.0" startX="-73.0" startY="18.5" />
+      <Line endX="-80.33331298828125" endY="549.4595947265625" layoutX="235.0" layoutY="14.0" startX="-80.33332824707031" startY="17.5" />
+      <Line endX="-109.66668701171875" endY="549.4595947265625" layoutX="311.0" layoutY="14.0" startX="-109.66667175292969" startY="18.5" />
+      <Line endX="-70.33331298828125" endY="549.4595947265625" layoutX="321.0" layoutY="14.0" startX="-70.33332824707031" startY="18.5" />
+      <Line endX="-24.3333740234375" endY="549.4595947265625" layoutX="327.0" layoutY="14.0" startX="-24.333343505859375" startY="18.5" />
+      <Line endX="-47.0" endY="549.4595947265625" layoutX="399.0" layoutY="14.0" startX="-47.0" startY="18.5" />
+      <Line endX="0.33331298828125" endY="549.4595947265625" layoutX="399.0" layoutY="14.0" startX="1.666656494140625" startY="18.0" />
+      <Line endX="-86.0" endY="549.4595947265625" layoutX="538.0" layoutY="14.0" startX="-86.0" startY="17.5" />
+      <Line endX="90.3333740234375" endY="549.4595947265625" layoutX="415.0" layoutY="14.0" startX="90.33334350585938" startY="18.5" />
+      <Line endX="86.33331298828125" endY="549.4595947265625" layoutX="475.0" layoutY="14.0" startX="86.33331298828125" startY="18.5" />
+      <Line endX="-1.0" endY="549.4595947265625" layoutX="621.0" layoutY="14.0" startX="-1.0" startY="18.5" />
+      <Line endX="204.333251953125" endY="549.4595947265625" layoutX="469.0" layoutY="14.0" startX="204.33331298828125" startY="18.5" />
+      <Line endX="123.0" endY="549.4595947265625" layoutX="601.0" layoutY="14.0" startX="123.0" startY="18.5" />
+      <Label layoutX="28.0" layoutY="35.0" text="Label" />
+      <Label layoutX="76.0" layoutY="35.0" text="Label" />
+      <Label layoutX="117.0" layoutY="35.0" text="Label" />
+      <Label layoutX="159.0" layoutY="35.0" text="Label" />
+      <Label layoutX="206.0" layoutY="35.0" text="Label" />
+      <Label layoutX="256.0" layoutY="35.0" text="Label" />
+      <Label layoutX="308.0" layoutY="35.0" text="Label" />
+      <Label layoutX="357.0" layoutY="35.0" text="Label" />
+      <Label layoutX="408.0" layoutY="35.0" text="Label" />
+      <Label layoutX="456.0" layoutY="35.0" text="Label" />
+      <Label layoutX="510.0" layoutY="35.0" text="Label" />
+      <Label layoutX="566.0" layoutY="35.0" text="Label" />
+      <Label layoutX="624.0" layoutY="35.0" text="Label" />
+      <Label layoutX="679.0" layoutY="35.0" text="Label" />
+      <Label layoutX="728.0" layoutY="35.0" text="Label" />
+      <Label layoutX="28.0" layoutY="79.0" text="Label" />
+      <Label layoutX="28.0" layoutY="127.0" text="Label" />
+      <Label layoutX="28.0" layoutY="171.0" text="Label" />
+      <Label layoutX="28.0" layoutY="220.0" text="Label" />
+      <Label layoutX="28.0" layoutY="264.0" text="Label" />
+      <Label layoutX="28.0" layoutY="318.0" text="Label" />
+      <Label layoutX="28.0" layoutY="364.0" text="Label" />
+      <ExpansionPanel.CollapsedPanel prefWidth="252" />
+      <Label layoutX="28.0" layoutY="412.0" text="Label" />
+      <Label layoutX="28.0" layoutY="463.0" text="Label" />
+      <Label layoutX="28.0" layoutY="517.0" text="Label" />
+      <Label layoutX="76.0" layoutY="79.0" text="Label" />
+      <Label layoutX="117.0" layoutY="79.0" text="Label" />
+      <Label layoutX="159.0" layoutY="79.0" text="Label" />
+      <Label layoutX="76.0" layoutY="127.0" text="Label" />
+      <Label layoutX="117.0" layoutY="127.0" text="Label" />
+      <Label layoutX="159.0" layoutY="127.0" text="Label" />
+      <Label layoutX="76.0" layoutY="171.0" text="Label" />
+      <Label layoutX="117.0" layoutY="171.0" text="Label" />
+      <Label layoutX="159.0" layoutY="171.0" text="Label" />
+      <Label layoutX="76.0" layoutY="220.0" text="Label" />
+      <Label layoutX="117.0" layoutY="220.0" text="Label" />
+      <Label layoutX="159.0" layoutY="220.0" text="Label" />
+      <Label layoutX="76.0" layoutY="264.0" text="Label" />
+      <Label layoutX="117.0" layoutY="264.0" text="Label" />
+      <Label layoutX="76.0" layoutY="318.0" text="Label" />
+      <Label layoutX="117.0" layoutY="318.0" text="Label" />
+      <Label layoutX="76.0" layoutY="364.0" text="Label" />
+      <Label layoutX="117.0" layoutY="364.0" text="Label" />
+      <Label layoutX="76.0" layoutY="412.0" text="Label" />
+      <Label layoutX="117.0" layoutY="412.0" text="Label" />
+      <Label layoutX="76.0" layoutY="463.0" text="Label" />
+      <Label layoutX="117.0" layoutY="463.0" text="Label" />
+      <Label layoutX="76.0" layoutY="517.0" text="Label" />
+      <Label layoutX="117.0" layoutY="517.0" text="Label" />
+      <Label layoutX="206.0" layoutY="79.0" text="Label" />
+      <Label layoutX="256.0" layoutY="79.0" text="Label" />
+      <Label layoutX="308.0" layoutY="79.0" text="Label" />
+      <Label layoutX="206.0" layoutY="127.0" text="Label" />
+      <Label layoutX="256.0" layoutY="127.0" text="Label" />
+      <Label layoutX="308.0" layoutY="127.0" text="Label" />
+      <Label layoutX="206.0" layoutY="171.0" text="Label" />
+      <Label layoutX="256.0" layoutY="171.0" text="Label" />
+      <Label layoutX="308.0" layoutY="171.0" text="Label" />
+      <Label layoutX="206.0" layoutY="220.0" text="Label" />
+      <Label layoutX="256.0" layoutY="220.0" text="Label" />
+      <Label layoutX="308.0" layoutY="220.0" text="Label" />
+      <Label layoutX="159.0" layoutY="264.0" text="Label" />
+      <Label layoutX="206.0" layoutY="264.0" text="Label" />
+      <Label layoutX="256.0" layoutY="264.0" text="Label" />
+      <Label layoutX="308.0" layoutY="264.0" text="Label" />
+      <Label layoutX="159.0" layoutY="318.0" text="Label" />
+      <Label layoutX="206.0" layoutY="318.0" text="Label" />
+      <Label layoutX="159.0" layoutY="364.0" text="Label" />
+      <Label layoutX="159.0" layoutY="412.0" text="Label" />
+      <Label layoutX="206.0" layoutY="364.0" text="Label" />
+      <Label layoutX="256.0" layoutY="318.0" text="Label" />
+      <Label layoutX="308.0" layoutY="318.0" text="Label" />
+      <Label layoutX="256.0" layoutY="364.0" text="Label" />
+      <Label layoutX="308.0" layoutY="364.0" text="Label" />
+      <Label layoutX="206.0" layoutY="412.0" text="Label" />
+      <Label layoutX="256.0" layoutY="412.0" text="Label" />
+      <Label layoutX="308.0" layoutY="412.0" text="Label" />
+      <Label layoutX="159.0" layoutY="463.0" text="Label" />
+      <Label layoutX="206.0" layoutY="463.0" text="Label" />
+      <Label layoutX="256.0" layoutY="463.0" text="Label" />
+      <Label layoutX="308.0" layoutY="463.0" text="Label" />
+      <Label layoutX="166.0" layoutY="517.0" text="Label" />
+      <Label layoutX="206.0" layoutY="517.0" text="Label" />
+      <Label layoutX="256.0" layoutY="517.0" text="Label" />
+      <Label layoutX="308.0" layoutY="517.0" text="Label" />
+      <Label layoutX="357.0" layoutY="79.0" text="Label" />
+      <Label layoutX="357.0" layoutY="127.0" text="Label" />
+      <Label layoutX="408.0" layoutY="79.0" text="Label" />
+      <Label layoutX="456.0" layoutY="79.0" text="Label" />
+      <Label layoutX="510.0" layoutY="79.0" text="Label" />
+      <Label layoutX="566.0" layoutY="79.0" text="Label" />
+      <Label layoutX="624.0" layoutY="79.0" text="Label" />
+      <Label layoutX="679.0" layoutY="79.0" text="Label" />
+      <Label layoutX="728.0" layoutY="79.0" text="Label" />
+      <Label layoutX="408.0" layoutY="127.0" text="Label" />
+      <Label layoutX="456.0" layoutY="127.0" text="Label" />
+      <Label layoutX="510.0" layoutY="127.0" text="Label" />
+      <Label layoutX="566.0" layoutY="127.0" text="Label" />
+      <Label layoutX="624.0" layoutY="127.0" text="Label" />
+      <Label layoutX="679.0" layoutY="127.0" text="Label" />
+      <Label layoutX="728.0" layoutY="127.0" text="Label" />
+      <Label layoutX="357.0" layoutY="171.0" text="Label" />
+      <Label layoutX="408.0" layoutY="171.0" text="Label" />
+      <Label layoutX="357.0" layoutY="220.0" text="Label" />
+      <Label layoutX="408.0" layoutY="220.0" text="Label" />
+      <Label layoutX="357.0" layoutY="264.0" text="Label" />
+      <Label layoutX="408.0" layoutY="264.0" text="Label" />
+      <Label layoutX="357.0" layoutY="318.0" text="Label" />
+      <Label layoutX="408.0" layoutY="318.0" text="Label" />
+      <Label layoutX="357.0" layoutY="364.0" text="Label" />
+      <Label layoutX="408.0" layoutY="364.0" text="Label" />
+      <Label layoutX="357.0" layoutY="412.0" text="Label" />
+      <Label layoutX="408.0" layoutY="412.0" text="Label" />
+      <Label layoutX="357.0" layoutY="463.0" text="Label" />
+      <Label layoutX="408.0" layoutY="463.0" text="Label" />
+      <Label layoutX="357.0" layoutY="517.0" text="Label" />
+      <Label layoutX="408.0" layoutY="517.0" text="Label" />
+      <Label layoutX="456.0" layoutY="171.0" text="Label" />
+      <Label layoutX="510.0" layoutY="171.0" text="Label" />
+      <Label layoutX="566.0" layoutY="171.0" text="Label" />
+      <Label layoutX="624.0" layoutY="171.0" text="Label" />
+      <Label layoutX="679.0" layoutY="171.0" text="Label" />
+      <Label layoutX="728.0" layoutY="171.0" text="Label" />
+      <Label layoutX="456.0" layoutY="220.0" text="Label" />
+      <Label layoutX="510.0" layoutY="220.0" text="Label" />
+      <Label layoutX="456.0" layoutY="264.0" text="Label" />
+      <Label layoutX="510.0" layoutY="264.0" text="Label" />
+      <Label layoutX="456.0" layoutY="318.0" text="Label" />
+      <Label layoutX="510.0" layoutY="318.0" text="Label" />
+      <Label layoutX="566.0" layoutY="318.0" text="Label" />
+      <Label layoutX="624.0" layoutY="364.0" text="Label" />
+      <Label layoutX="679.0" layoutY="412.0" text="Label" />
+      <Label layoutX="728.0" layoutY="463.0" text="Label" />
+      <Label layoutX="510.0" layoutY="364.0" text="Label" />
+      <Label layoutX="566.0" layoutY="364.0" text="Label" />
+      <Label layoutX="456.0" layoutY="364.0" text="Label" />
+      <Label layoutX="456.0" layoutY="412.0" text="Label" />
+      <Label layoutX="456.0" layoutY="463.0" text="Label" />
+      <Label layoutX="456.0" layoutY="517.0" text="Label" />
+      <Label layoutX="510.0" layoutY="517.0" text="Label" />
+      <Label layoutX="510.0" layoutY="463.0" text="Label" />
+      <Label layoutX="510.0" layoutY="412.0" text="Label" />
+      <Label layoutX="566.0" layoutY="220.0" text="Label" />
+      <Label layoutX="566.0" layoutY="264.0" text="Label" />
+      <Label layoutX="624.0" layoutY="220.0" text="Label" />
+      <Label layoutX="624.0" layoutY="264.0" text="Label" />
+      <Label layoutX="624.0" layoutY="318.0" text="Label" />
+      <Label layoutX="566.0" layoutY="412.0" text="Label" />
+      <Label layoutX="566.0" layoutY="463.0" text="Label" />
+      <Label layoutX="566.0" layoutY="517.0" text="Label" />
+      <Label layoutX="624.0" layoutY="412.0" text="Label" />
+      <Label layoutX="624.0" layoutY="463.0" text="Label" />
+      <Label layoutX="624.0" layoutY="517.0" text="Label" />
+      <Label layoutX="679.0" layoutY="220.0" text="Label" />
+      <Label layoutX="728.0" layoutY="220.0" text="Label" />
+      <Label layoutX="679.0" layoutY="264.0" text="Label" />
+      <Label layoutX="728.0" layoutY="264.0" text="Label" />
+      <Label layoutX="679.0" layoutY="318.0" text="Label" />
+      <Label layoutX="728.0" layoutY="318.0" text="Label" />
+      <Label layoutX="679.0" layoutY="364.0" text="Label" />
+      <Label layoutX="728.0" layoutY="364.0" text="Label" />
+      <Label layoutX="728.0" layoutY="412.0" text="Label" />
+      <Label layoutX="679.0" layoutY="463.0" text="Label" />
+      <Label layoutX="679.0" layoutY="517.0" text="Label" />
+      <Label layoutX="728.0" layoutY="517.0" text="Label" />
+      <TextField layoutX="33.0" layoutY="52.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="80.0" layoutY="52.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="28.0" layoutY="96.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="117.0" layoutY="52.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="159.0" layoutY="52.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="206.0" layoutY="52.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="256.0" layoutY="52.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="76.0" layoutY="96.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="117.0" layoutY="96.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="28.0" layoutY="144.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="28.0" layoutY="188.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="28.0" layoutY="237.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="28.0" layoutY="288.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="28.0" layoutY="335.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="28.0" layoutY="381.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="28.0" layoutY="429.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="28.0" layoutY="480.0" prefHeight="17.0" prefWidth="28.0" />
+      <TextField layoutX="28.0" layoutY="538.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="76.0" layoutY="144.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="76.0" layoutY="188.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="76.0" layoutY="286.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="76.0" layoutY="335.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="76.0" layoutY="381.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="76.0" layoutY="429.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="76.0" layoutY="480.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="117.0" layoutY="480.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="76.0" layoutY="538.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="117.0" layoutY="538.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="166.0" layoutY="538.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="212.0" layoutY="538.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="262.0" layoutY="538.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="315.0" layoutY="538.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="357.0" layoutY="538.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="408.0" layoutY="538.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="462.0" layoutY="538.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="510.0" layoutY="538.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="580.0" layoutY="538.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="632.0" layoutY="538.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="679.0" layoutY="538.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="735.0" layoutY="538.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="166.0" layoutY="480.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="212.0" layoutY="480.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="262.0" layoutY="480.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="308.0" layoutY="480.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="357.0" layoutY="480.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="408.0" layoutY="480.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="462.0" layoutY="480.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="510.0" layoutY="480.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="566.0" layoutY="480.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="624.0" layoutY="480.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="679.0" layoutY="480.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="728.0" layoutY="480.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="117.0" layoutY="429.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="159.0" layoutY="429.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="117.0" layoutY="381.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="76.0" layoutY="237.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="159.0" layoutY="96.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="117.0" layoutY="144.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="117.0" layoutY="188.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="117.0" layoutY="237.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="117.0" layoutY="286.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="117.0" layoutY="335.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="159.0" layoutY="188.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="159.0" layoutY="237.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="159.0" layoutY="284.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="212.0" layoutY="96.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="212.0" layoutY="144.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="159.0" layoutY="144.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="212.0" layoutY="188.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="262.0" layoutY="96.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="262.0" layoutY="144.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="256.0" layoutY="188.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="256.0" layoutY="237.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="212.0" layoutY="237.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="206.0" layoutY="286.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="262.0" layoutY="284.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="206.0" layoutY="335.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="159.0" layoutY="335.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="159.0" layoutY="381.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="206.0" layoutY="381.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="256.0" layoutY="335.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="308.0" layoutY="52.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="357.0" layoutY="52.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="408.0" layoutY="52.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="456.0" layoutY="52.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="308.0" layoutY="96.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="308.0" layoutY="144.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="308.0" layoutY="188.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="308.0" layoutY="237.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="308.0" layoutY="284.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="308.0" layoutY="335.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="256.0" layoutY="381.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="212.0" layoutY="429.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="256.0" layoutY="429.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="308.0" layoutY="381.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="308.0" layoutY="429.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="357.0" layoutY="96.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="357.0" layoutY="144.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="357.0" layoutY="188.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="357.0" layoutY="237.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="357.0" layoutY="284.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="357.0" layoutY="335.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="357.0" layoutY="381.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="357.0" layoutY="429.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="408.0" layoutY="96.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="517.0" layoutY="52.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="566.0" layoutY="52.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="624.0" layoutY="52.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="679.0" layoutY="52.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="735.0" layoutY="52.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="566.0" layoutY="96.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="632.0" layoutY="96.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="679.0" layoutY="96.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="735.0" layoutY="96.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="517.0" layoutY="96.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="456.0" layoutY="96.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="408.0" layoutY="144.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="456.0" layoutY="144.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="517.0" layoutY="144.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="566.0" layoutY="144.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="624.0" layoutY="144.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="679.0" layoutY="144.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="728.0" layoutY="144.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="728.0" layoutY="188.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="728.0" layoutY="237.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="728.0" layoutY="284.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="728.0" layoutY="335.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="728.0" layoutY="381.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="728.0" layoutY="429.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="679.0" layoutY="188.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="624.0" layoutY="188.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="408.0" layoutY="188.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="462.0" layoutY="188.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="517.0" layoutY="188.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="573.0" layoutY="188.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="408.0" layoutY="237.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="456.0" layoutY="237.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="517.0" layoutY="237.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="573.0" layoutY="237.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="632.0" layoutY="237.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="679.0" layoutY="237.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="408.0" layoutY="284.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="462.0" layoutY="285.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="408.0" layoutY="335.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="408.0" layoutY="381.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="408.0" layoutY="429.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="462.0" layoutY="335.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="462.0" layoutY="381.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="462.0" layoutY="429.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="510.0" layoutY="284.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="517.0" layoutY="335.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="517.0" layoutY="381.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="510.0" layoutY="429.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="566.0" layoutY="284.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="624.0" layoutY="284.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="679.0" layoutY="284.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="566.0" layoutY="335.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="624.0" layoutY="335.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="679.0" layoutY="335.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="573.0" layoutY="381.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="624.0" layoutY="381.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="679.0" layoutY="381.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="573.0" layoutY="429.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="632.0" layoutY="429.0" prefHeight="25.0" prefWidth="28.0" />
+      <TextField layoutX="679.0" layoutY="429.0" prefHeight="25.0" prefWidth="28.0" />
+      <Button layoutX="373.0" layoutY="574.0" mnemonicParsing="false" text="Check" />
+   </children>
+</AnchorPane>

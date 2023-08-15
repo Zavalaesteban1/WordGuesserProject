@@ -1,8 +1,3 @@
-// CSCI 3326.01
-// Summer II 2023
-// Lab Assignment 12A
-// Esteban Zavala
-// 
 
 package com.example;
 
